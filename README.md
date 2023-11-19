@@ -11,3 +11,6 @@ To create an app to assess body mass index in adults among countries, and among 
 Data is old which is gotten from WHO
 
 Refers to @CrazyFarang
+
+
+My project: "Development of ShinyApp for assessing the type2 diabetes risk score"
